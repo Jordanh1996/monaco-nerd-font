@@ -6,3 +6,7 @@ This version is updated and is more compatible with tools such as [Powerlevel10k
 The nerd font file name is called Monaco Nerd Font Complete.ttf
 I've also added a ligaturized version on Monaco with the name of Liga Monaco.ttf
 Note: The ligaturized version does not include the Nerd Font, it is just a ligaturized version for IDEAs and such
+
+The fonts are registered under the font family names:
+- Monaco Nerd Font Complete.ttf: Monaco Nerd Font
+- Liga Monaco.ttf: Monaco for Powerline
